@@ -1,0 +1,13 @@
+{
+    "$schema": "https://json.schemastore.org/tsconfig",
+    "compilerOptions": {
+        "lib": ["esnext"],
+        "strict": true,
+        "noUncheckedIndexedAccess": true,
+        "inlineSources": true,
+        "sourceMap": true,
+        "composite": true,
+        "rootDir": "src",
+        "outDir": "dist"
+    }
+}
